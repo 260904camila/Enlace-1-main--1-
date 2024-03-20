@@ -6,4 +6,5 @@ import br.com.fiap.enlace.model.Servico;
 
 public interface ServicoRepository extends JpaRepository<Servico, Long> {
     
+    
 }
