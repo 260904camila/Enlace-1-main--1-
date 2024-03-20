@@ -13,7 +13,7 @@ public class Empresa {
     @Id @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     private String nome;
-    private String icone;
+    private String localizacao;
     
 }
 
